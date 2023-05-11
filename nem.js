@@ -1,4 +1,4 @@
-function App() {
+function MApp() {
   const [chatVisible, setChatVisible] = useState(false);
 
   const handleImageClick = () => {
