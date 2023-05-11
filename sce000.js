@@ -95,7 +95,8 @@ function App() {
       },
   
     ]; 
-    return (<div>
+    return (
+    <div>
     { !chatVisible &&<img
      style={{ position: "fixed", bottom: "20px", right: "20px" ,cursor: "pointer"}}
        src={messageicon}
