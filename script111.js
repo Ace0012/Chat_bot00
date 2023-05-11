@@ -96,9 +96,8 @@ function App() {
   
     ]; 
     return (
-    <div> 
+   
 
-    helo
      <div>
     { !chatVisible &&<img
      style={{ position: "fixed", bottom: "20px", right: "20px" ,cursor: "pointer"}}
@@ -130,11 +129,8 @@ function App() {
      )}
    </div>
   
-   {/* <div style={{ position: "fixed", bottom: "20px", right: "20px" }}>
-   {/* <iframe className="Iframe" src="https://buildchat.vercel.app" /> */}
-   {/* </div> */}
-    </div> 
-    
+  
+ 
     );
   }
   
