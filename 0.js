@@ -121,9 +121,10 @@
 
 function color (){
   return (
-    <div>
+
       <h1>COlOR</h1>
       
-    </div>
+
   )
 }
+color()
