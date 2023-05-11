@@ -1,12 +1,4 @@
-import React from 'react'
-import { useState } from "react";
-import ChatBot from "react-simple-chatbot";
 
-import {Segment} from "semantic-ui-react"
-import messageicon from "./messageicon.png"
-
-import close from "./close.png"
-import "./App.css"
 function App() {
   const [chatVisible, setChatVisible] = useState(false);
 
